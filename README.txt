@@ -2,7 +2,7 @@ COURSE PROJECT 1 - EXPLORATORY DATA ANALYSIS
 
 SOURCE OF DATA
 
-This project uses data from the UC Irvine Machine Learning Repository, specifically the �Individual household electric power consumption Data Set�. It contains the measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years.
+This project uses data from the UC Irvine Machine Learning Repository, specifically the "Individual household electric power consumption Data Set". It contains the measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years.
 Descriptions of the 9 variables in the dataset:
     Date: Date in format dd/mm/yyyy
     Time: time in format hh:mm:ss
